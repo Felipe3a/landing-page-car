@@ -8,7 +8,7 @@
 
 
 
-![Design preview](.preview.png)
+![Design preview](preview.png)
 
 
 
