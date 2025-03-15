@@ -8,7 +8,7 @@
 
 
 
-![Design preview](https://github.com/Felipe3a/landing-page-car/blob/main/preview.png)
+![Design preview](.preview.png)
 
 
 
